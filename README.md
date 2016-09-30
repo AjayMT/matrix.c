@@ -1,5 +1,6 @@
 
 # matrix.c
+[![Build Status](https://travis-ci.org/AjayMT/list.c.svg)](https://travis-ci.org/AjayMT/list.c)
 Mutable 2D integer array data type.
 
 ```c
